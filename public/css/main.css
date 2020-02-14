@@ -1,0 +1,28 @@
+header ul {
+    display: flex;
+}
+
+header li {
+    list-style: none;
+    padding: 0 10px;
+}
+
+header {
+    height: 40px;
+    background-color: #333;
+    line-height: 40px;
+    color: #fff;
+}
+
+.card {
+    padding-bottom: 40px;
+}
+
+span {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #999;
+
+}
